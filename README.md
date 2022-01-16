@@ -27,6 +27,5 @@ src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
 
   ##
   
-<div align="center">
-  ![Snake animation](https://github.com/Thalis1999/Thalis1999/blob/output/github-contribution-grid-snake.svg)
-</div>
+ ![Snake animation](https://github.com/Thalis1999/Thalis1999/blob/output/github-contribution-grid-snake.svg)
+
