@@ -2,8 +2,7 @@
 
 - 😄 Em busca de oportunidades .
 - 📚♨ Estudando Typescript, Java e entre outros ...
-- 
-##
+
 
 <div align="center">
   <a href="https://github.com/Thalis1999">
