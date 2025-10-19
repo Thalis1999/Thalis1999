@@ -10,7 +10,7 @@
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalis1999&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
@@ -18,10 +18,10 @@
 
 </p>
 
-&nbsp;
-## My Skills
 
-#### Main Stack:
+<!-- ## My Skills -->
+
+<!-- #### Main Stack: -->
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
