@@ -1,9 +1,7 @@
 # 👩🏻‍💻 Thalisson Leonardo
 **`Desenvolvedor Backend`**
-## My Skills 
 
-#### Main Stack:
-
+### 🤖 Linguagens e Tecnologia:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
