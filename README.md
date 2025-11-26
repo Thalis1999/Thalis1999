@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Thalisson Leonardo
 **`Desenvolvedor Backend`**
 
-Me chamo Thalisson Leonardo, tenho 26 anos e sou natural de Minas Gerais. Concluí o ensino médio em escola pública logo após concluí o curso técnico em desenvolvimento de sistemas pelo Senai. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USF.
+Me chamo Thalisson Leonardo, tenho 26 anos e sou de Campinas-SP. Concluí o ensino médio em escola pública logo após concluí o curso técnico em desenvolvimento de sistemas pelo Senai. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USF.
 
 ### 🤖 Linguagens e Tecnologia:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
