@@ -55,19 +55,10 @@ Me chamo Thalisson, tenho 26 anos e sou de Campinas-SP. Concluí o ensino médio
 </br>
 
 ### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    https://github-readme-stats.vercel.app/api?username=Thalis1999)](https://github.com/Thalissouza/github-readme-stats />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalis1999&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<div>
+  <a href="https://beacons.ai/rafaballerini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalis19992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalis19992&layout=compact&langs_count=16&theme=dracula" />
+</div>
 
