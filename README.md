@@ -51,14 +51,15 @@ Me chamo Thalisson, tenho 26 anos e sou de Campinas-SP. Concluí o ensino médio
 <a href="https://www.linkedin.com/in/thalissonsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-</br>
-
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+  </br>
+</div>
 ### 📊 Estatísticas
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalis19992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalis19992&layout=compact&langs_count=16&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalis1999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalis1999&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
