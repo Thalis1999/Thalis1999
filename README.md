@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Thalisson Leonardo
 **`Desenvolvedor Backend`**
 
-Me chamo Thalisson, tenho 26 anos e sou de Campinas-SP. Concluí o ensino médio em escola pública logo após concluí o curso técnico em desenvolvimento de sistemas pelo Senai. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USF. Pretendo fazer pós em Java ou Arquitetura de Soluções.
+Tenho 26 anos e sou de Campinas-SP. Concluí curso técnico em desenvolvimento de sistemas pelo Senai. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USF onde me especializo em soluções web com Java, Spring e AWS. Pretendo fazer pós em Java ou Arquitetura de Soluções.
 
 ### 🤖 Linguagens e Tecnologia:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
