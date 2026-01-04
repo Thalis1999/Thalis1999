@@ -61,7 +61,7 @@ Me chamo Thalisson, tenho 26 anos e sou de Campinas-SP. Concluí o ensino médio
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    [![Thalis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thalis1999)](https://github.com/Thalissouza/github-readme-stats)  />
+    https://github-readme-stats.vercel.app/api?username=Thalis1999)](https://github.com/Thalissouza/github-readme-stats />
 
 <img 
       align="left" 
