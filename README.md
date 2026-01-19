@@ -18,13 +18,13 @@ Tenho 26 anos e sou de Campinas-SP. Concluí curso técnico em desenvolvimento d
 
 #### Studying in this moment:
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp; 
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
 
 #### Banco de Dados:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### IDEs:
@@ -33,9 +33,6 @@ Tenho 26 anos e sou de Campinas-SP. Concluí curso técnico em desenvolvimento d
 <!-- ![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp; -->
 ![Intellij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp; 
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp; -->
-
-&nbsp;
-&nbsp;
 
 #### Contatos:
 <div> 
@@ -49,8 +46,8 @@ Tenho 26 anos e sou de Campinas-SP. Concluí curso técnico em desenvolvimento d
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
   </br>
 </div>
-####  Estatísticas
 
+#### Estatísticas
 <div>
   <a href="https://beacons.ai/rafaballerini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalis1999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
